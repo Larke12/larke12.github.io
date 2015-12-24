@@ -1,21 +1,36 @@
 ---
 title: Programming
-updated: 2015-12-24 13:05
+updated: 2015-12-24 13:30
 ---
 
-Below is a list of programming languages to which I’ve been exposed. I am neither a coding wizard or advanced with any of the following languages.
+Below is a list of programming languages to which I’ve been exposed. I am neither a coding wizard or advanced with any of the following languages, but my favourite of them all is Ruby. More detailed descriptions available upon request.
 
-+ HTML/5
-+ CSS (self-taught, still learning)
 + ActionScript 2.0/3.0
-+ Python (2.7/2.8)
+	+ Flash games on [Game Design](../game-design)
 + C/C++
-+ C# (minor experience)
-+ Java
-+ Ruby/Ruby on Rails
+	+ With OpenGL
+	+ Twiccian front-end
+	+ Various projects in college
 + Clojure
++ CSS (self-taught, still learning)
+	+ Most notable on [my own website](http://www.ryanhammett.com/) and the [York Review website](http://www.yorkreview.org)
++ HTML/5
+	+ See [Web Design](../web-design)
++ Java
+	+ See this [browser RPG](https://github.com/Larke12/Team_Assignment_RPG)
 + PHP (minor, just messing with Wordpress backend)
-+ Prolog (minor experience)
+	+ Mainly in WordPress: used on my own website, York Review, and was most prominent on Nintendo Castle 4.0
++ Qt/QML
+	+ Twiccian GUI
++ Ruby/Ruby on Rails
+	+ [Ruby Reminder App](https://github.com/Larke12/ruby-reminder)
+	+ [Slack Mathbot](https://github.com/Larke12/slack-mathbot)
+	+ Working on converting C++ OpenGL projects to Ruby/OpenGL
+
+Some languages I've poked around in at least once.
+
 + Erlang (minor experience)
 + Dart (and LESS)
-+ Qt/QML
++ Jekyll (this site)
++ Prolog (minor experience)
++ Python (2.7/2.8)
