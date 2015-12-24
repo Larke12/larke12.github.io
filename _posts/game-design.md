@@ -11,7 +11,7 @@ updated: 2015-12-24 11:50
 
 ## High School
 
-Lost Woods Adventure (Flash, long load time)
+[Lost Woods Adventure](assets/advent_lost.swf) (Flash, long load time)
 
 >An adventure game where you drag and drop your items to unlock mysteries and advance to the Master Sword’s pedestal! Needless to say, this game is based upon The Legend of Zelda: Ocarina of Time. Music by Zelda Reorchestrated.
 
