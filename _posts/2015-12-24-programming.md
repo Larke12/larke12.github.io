@@ -19,6 +19,7 @@ Below is a list of programming languages to which I’ve been exposed. I am neit
 	+ See [Web Design](../web-design)
 + Java
 	+ See this [browser RPG](https://github.com/Larke12/Team_Assignment_RPG)
+	+ Various projects in college
 + PHP (minor, just messing with Wordpress backend)
 	+ Mainly in WordPress: used on my own website, York Review, and was most prominent on Nintendo Castle 4.0
 + Qt/QML
