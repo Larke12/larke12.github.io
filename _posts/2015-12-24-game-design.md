@@ -10,10 +10,10 @@ updated: 2015-12-24 13:10
 
 This game was created in my first semester of college with the help of my friends Aaron Kirby and Josiah Watts. Much of what I did was in the general coding and story/decision making. It is fully playable, with a few possible bugs. Enjoy the tale of saving your friend from harm!
 
-### Chomp!
-<em>C/C++</em>
+### [Terminal Pellets](../../assets/champ.tar.gz)
+<em>C/C++ (tar.gz)</em>
 
-This game was created in my second semester of college, with some code given to us from our instructor. It’s essentially Pacman in C++. A lot of work was put into this game, along with bonus levels and elements not required by the basic grading scale. <b>Looking for the file to upload</b>.
+This game was created in my second semester of college, with some code given to us from our instructor. It’s essentially Pacman in C++. A lot of work (at the time) was put into this game, along with bonus levels and elements not required by the basic grading scale. Requires you make the program in your POSIX systems terminal.
 
 <div class="divider"></div>
 
