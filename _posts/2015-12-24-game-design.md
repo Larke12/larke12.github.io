@@ -3,11 +3,7 @@ title: Game Design
 updated: 2015-12-24 12:30
 ---
 
-# Game Design
-
-<div class="divider"></div>
-
-## College
+<p align="center">## College</p>
 
 <div class="divider"></div>
 
