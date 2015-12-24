@@ -1,6 +1,6 @@
 ---
 title: Programming
-updated: 2015-12-24 13:30
+updated: 2015-12-24 13:05
 ---
 
 Below is a list of programming languages to which I’ve been exposed. I am neither a coding wizard or advanced with any of the following languages, but my favourite of them all is Ruby. More detailed descriptions available upon request.

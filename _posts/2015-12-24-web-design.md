@@ -1,6 +1,6 @@
 ---
 title: Web Design
-updated: 2015-12-24 13:35
+updated: 2015-12-24 13:00
 ---
 
 I am currently a staff member on two fan sites, <a href="https://www.linkshideaway.com/">Link’s Hideaway</a> (LH) and <a href="http://www.nintendocastle.com/">Nintendo Castle</a> (NC). I am the (Unofficial) Co-Webmaster for LH, and “unofficial” due to my lack of knowledge in certain areas of code to be considered “official”. I do graphic design, news, content, (past) podcast host and editor, and various other duties to keep the site running. Much of what the site does, and will do, has and still is giving me the opportunity for a greater view of web design. From the custom CMS in use, to better SEO practices, and even better writing.
