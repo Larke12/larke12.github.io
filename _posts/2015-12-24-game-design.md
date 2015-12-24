@@ -1,13 +1,29 @@
 ---
 title: Game Design
-updated: 2015-12-24 12:30
+updated: 2015-12-24 12:42
 ---
 
-<p align="center">## College</p>
+## College
+
+### [Cave of Despair](../../assets/Cave_of_Despair_Game_rhammett.swf) (Flash)
+
+This game was created in my first semester of college with the help of my friends Aaron Kirby and Josiah Watts. Much of what I did was in the general coding and story/decision making. It is fully playable, with a few possible bugs. Enjoy the tale of saving your friend from harm!
+
+### Chomp! (C/C++)
+
+This game was created in my second semester of college, with some code given to us from our instructor. It’s essentially Pacman in C++. A lot of work was put into this game, along with bonus levels and elements not required by the basic grading scale. <b>Looking for the file to upload</b>.
 
 <div class="divider"></div>
 
 ## High School
+
+#### [Old Game Design Home Page](http://larke12.netii.net/index.html)
+
+Contains all works from my high school career. From the games below, to small labs we created and learned. Until the site is deleted I'll leave a link to it here.
+
+#### [Class of 2012 Game Design Page](http://www.kdgamedesign.info/class_of2012.html)
+
+So long as this site is also available, I will link to it here. It contains a selection of games from my Game Design class at Kennard-Dale High School.
 
 ### [Lost Woods Adventure](../../assets/advent_lost.swf) (Flash, long load time)
 
