@@ -9,3 +9,5 @@ My name is Ryan Hammett, and I am currently a Senior Computer Science student at
 For more about me and the rest of my works, [check out my website here](http://www.ryanhammett.com/).
 
 Enjoy!
+
+![Kitten](http://i0.wp.com/www.ryanhammett.com/wp-content/uploads/2013/05/IMG_0747.jpg)
