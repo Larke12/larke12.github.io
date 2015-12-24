@@ -1,11 +1,12 @@
 ---
 title: Game Design
-updated: 2015-12-24 12:42
+updated: 2015-12-24 13:00
 ---
 
 ## College
 
-### [Cave of Despair](../../assets/Cave_of_Despair_Game_rhammett.swf) <em>Flash</em>
+### [Cave of Despair](../../assets/Cave_of_Despair_Game_rhammett.swf) 
+<em>Flash</em>
 
 This game was created in my first semester of college with the help of my friends Aaron Kirby and Josiah Watts. Much of what I did was in the general coding and story/decision making. It is fully playable, with a few possible bugs. Enjoy the tale of saving your friend from harm!
 
