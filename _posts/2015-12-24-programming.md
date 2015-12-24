@@ -13,7 +13,7 @@ Below is a list of programming languages to which I’ve been exposed. I am neit
 	+ Various projects in college
 + Clojure
 + CSS (self-taught, still learning)
-	+ Most notable on [my own website](http://www.ryanhammett.com/) and the [York Review website](http://www.yorkreview.org)
+	+ Most notable on <a href="http://www.ryanhammett.com/" target="_blank">my own website</a> and the <a href="http://www.yorkreview.org" target="_blank">York Review website</a>
 + HTML/5
 	+ See [Web Design](../web-design)
 + Java
@@ -31,6 +31,7 @@ Some languages I've poked around in at least once.
 
 + Erlang (minor experience)
 + Dart (and LESS)
++ Golang
 + Jekyll (this site)
 + Prolog (minor experience)
 + Python (2.7/2.8)
