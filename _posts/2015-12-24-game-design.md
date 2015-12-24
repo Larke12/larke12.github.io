@@ -5,11 +5,15 @@ updated: 2015-12-24 12:42
 
 ## College
 
-### [Cave of Despair](../../assets/Cave_of_Despair_Game_rhammett.swf) (Flash)
+### [Cave of Despair](../../assets/Cave_of_Despair_Game_rhammett.swf)
+
+#### Flash
 
 This game was created in my first semester of college with the help of my friends Aaron Kirby and Josiah Watts. Much of what I did was in the general coding and story/decision making. It is fully playable, with a few possible bugs. Enjoy the tale of saving your friend from harm!
 
-### Chomp! (C/C++)
+### Chomp!
+
+#### C/C++
 
 This game was created in my second semester of college, with some code given to us from our instructor. It’s essentially Pacman in C++. A lot of work was put into this game, along with bonus levels and elements not required by the basic grading scale. <b>Looking for the file to upload</b>.
 
@@ -25,7 +29,8 @@ Contains all works from my high school career. From the games below, to small la
 
 So long as this site is also available, I will link to it here. It contains a selection of games from my Game Design class at Kennard-Dale High School.
 
-### [Lost Woods Adventure](../../assets/advent_lost.swf) 
+### [Lost Woods Adventure](../../assets/advent_lost.swf)
+
 #### Flash, long load time
 
 An adventure game where you drag and drop your items to unlock mysteries and advance to the Master Sword’s pedestal! Needless to say, this game is based upon The Legend of Zelda: Ocarina of Time. Music by Zelda Reorchestrated.
