@@ -4,8 +4,8 @@ title: About
 
 Hello.
 
-The main purpose of this theme is to be as simple as it could be, so you can focus on writing your stuffs. This is your About page. You may describe about yourself here; who you are, what are you currently doing, share some of your projects, your social links and how people can contact you, etc.
+My name is Ryan Hammett, and I am currently a Senior Computer Science student at York College of Pennsylvania. This website houses most of my works since high school, showcasing the various skills I have achieved through my classes and projects. My writings are still in the process of being uploaded, but are available upon request. I am currently looking for an internship in relation to my Computer Science major so that I may expand my horizons beyond programming and game design. So far I have dabbled in HTML/CSS, C/++, Java, Ruby, Clojure and more recently Qt.
 
-**Just write thing that matters..**
+For more about me and the rest of my works, [check out my website here](http://www.ryanhammett.com/).
 
 Enjoy!
