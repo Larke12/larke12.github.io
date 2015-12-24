@@ -40,3 +40,7 @@ The classic game of Pong! Features singleplayer and multiplayer modes, with mino
 ### [Platz Former’s Adventure](../../assets/platform_fix.swf) (Flash)
 
 A platformer with a small inspiration from Kirby. Save the townsfolk by collecting enough coins before they disappear!
+
+### [3D Maze](../../assets/maze_game.blend) (Blender File)
+
+A 3D maze game that can be run using <a href="http://www.blender.org/" target="_blank">Blender</a>. Download the file and open in Blender, then press 'P' to begin the maze game.
