@@ -10,6 +10,7 @@ Below is a list of programming languages to which I’ve been exposed. I am neit
 + C/C++
 	+ With OpenGL
 	+ Twiccian front-end
+	+ Terminal game on [Game Design](../game-design)
 	+ Various projects in college
 + Clojure
 + CSS (self-taught, still learning)
