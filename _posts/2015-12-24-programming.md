@@ -27,7 +27,10 @@ Below is a list of programming languages to which I’ve been exposed. I am neit
 + Ruby/Ruby on Rails
 	+ [Ruby Reminder App](https://github.com/Larke12/ruby-reminder)
 	+ [Slack Mathbot](https://github.com/Larke12/slack-mathbot)
-	+ Working on converting C++ OpenGL projects to Ruby/OpenGL
+		+ Converting to a Pixiv unfurler
+	+ [Ruby OpenGL Mill](https://github.com/Larke12/ruby-opengl-mill)
+	+ [Ruby OpenGL Train](https://github.com/Larke12/ruby-opengl-train)
+	+ Working on converting more C++ OpenGL projects to Ruby/OpenGL
 
 Some languages I've poked around in at least once.
 
