@@ -1,5 +1,5 @@
 # larke12.github.io
-Website to host my programs and designs. To be designed using Jekyll.
+Website to host my programs and designs. Designed using Jekyll.
 
 # Theme: The Plain
 
