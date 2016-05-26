@@ -23,7 +23,7 @@ Below is a list of programming languages to which I’ve been exposed. Most of m
 + Go
 	+ [Twiccian back-end](https://github.com/Larke12/twicciand) (<a href="http://stackoverflow.com/cv/rhammett" target="_blank" >detailed information here</a>)
 + GTK3
-	+ [Ruby Media Player](https://github.com/Larke12/rbmp)
+	+ [Ruby Media Player](https://github.com/Larke12/rbmp) (<a href="http://stackoverflow.com/cv/rhammett" target="_blank" >detailed information here</a>)
 + HTML/5
 	+ See [Web Design](../web-design)
 + Java
