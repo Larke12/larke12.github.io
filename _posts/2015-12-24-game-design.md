@@ -1,6 +1,6 @@
 ---
 title: Game Design
-updated: 2015-12-24 13:10
+updated: 2016-05-26 13:00
 ---
 
 ## College

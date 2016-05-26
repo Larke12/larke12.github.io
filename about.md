@@ -6,9 +6,9 @@ title: About | Ryan Hammett
 
 Hello.
 
-My name is Ryan Hammett, and I am currently a Senior Computer Science student at York College of Pennsylvania. This website houses most of my works since high school, showcasing the various skills I have achieved through my classes and projects. My writings are still in the process of being uploaded, but are available upon request. I am currently looking for an internship in relation to my Computer Science major so that I may expand my horizons beyond programming and game design. So far I have dabbled in HTML/CSS, C/++, Java, Ruby, Clojure and more recently Qt.
+My name is Ryan Hammett, and I am a gradute of York College of Pennylvania. I graduated with a B.S. in Computer Science and a minor in Creative Writing. This portion of my website houses my programs and design portfolio for assignments and side projects. Here you will find links to my GitHub projects as well as more detailed information on my knowledge. I am far more adept at Software Engineering than Computer Science, but both of these have been used throught my projects. My most notable project has been [Twiccian](https://github.com/Larke12/twiccian), where I learned semesters worth of work in a single year of college. Much of what I have learned has required self-teaching, and I am actively ready to find and learn more.
 
-For more about me and the rest of my works, <a href="http://www.ryanhammett.com/" target="_blank"> check out my website here</a>.
+For more about me and the rest of my works, please <a href="http://www.ryanhammett.com/" target="_blank">check out my website here</a>.
 
 Enjoy!
 

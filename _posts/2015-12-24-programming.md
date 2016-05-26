@@ -1,30 +1,40 @@
 ---
 title: Programming
-updated: 2015-12-24 13:05
+updated: 2016-05-26 13:00
 ---
 
-Below is a list of programming languages to which I’ve been exposed. I am neither a coding wizard or advanced with any of the following languages, but my favourite of them all is Ruby. More detailed descriptions available upon request.
+Below is a list of programming languages to which I’ve been exposed. Most of my programming is done in Vim nowadays, using JetBrains IDE's when required. Given a quick refresh I can tackle just about any language, but my favourite would either be Go or Ruby. More detailed descriptions available upon request, self-taught unless otherwise noted.
 
 + ActionScript 2.0/3.0
 	+ Flash games on [Game Design](../game-design)
 + C/C++
 	+ With OpenGL
-	+ Twiccian front-end
+	+ [Twiccian front-end](https://github.com/Larke12/twiccian) (<a href="http://stackoverflow.com/cv/rhammett" target="_blank" >detailed information here</a>)
 	+ Terminal game on [Game Design](../game-design)
-	+ Various projects in college
+	+ Various projects in college, from CS101 labs to Data Structure assignments
 + Clojure
-+ CSS (self-taught, still learning)
-	+ Most notable on <a href="http://www.ryanhammett.com/" target="_blank">my own website</a> and the <a href="http://www.yorkreview.org" target="_blank">York Review website</a>
++ CSS 
+	+ My website
+	+ Nintendo Castle 4.0
+	+ The York Review
++ Git
+	+ Not a language, per se, but integral to them!
+	+ On a ton of projects, most of them listed here
++ Go
+	+ [Twiccian back-end](https://github.com/Larke12/twicciand) (<a href="http://stackoverflow.com/cv/rhammett" target="_blank" >detailed information here</a>)
++ GTK3
+	+ [Ruby Media Player](https://github.com/Larke12/rbmp)
 + HTML/5
 	+ See [Web Design](../web-design)
 + Java
 	+ See this [browser RPG](https://github.com/Larke12/Team_Assignment_RPG)
 	+ Various projects in college
 + PHP (minor, just messing with Wordpress backend)
-	+ Mainly in WordPress: used on my own website, York Review, and was most prominent on Nintendo Castle 4.0
+	+ Mainly in WordPress: used on my own website, York Review, and Nintendo Castle 4.0
 + Qt/QML
 	+ Twiccian GUI
 + Ruby/Ruby on Rails
+	+ [Ruby Media Player](https://github.com/Larke12/rbmp)
 	+ [Ruby Reminder App](https://github.com/Larke12/ruby-reminder)
 	+ [Slack Mathbot](https://github.com/Larke12/slack-mathbot) (Converting to a Pixiv unfurler)
 	+ [Ruby OpenGL Mill](https://github.com/Larke12/ruby-opengl-mill)
@@ -34,8 +44,9 @@ Below is a list of programming languages to which I’ve been exposed. I am neit
 Some languages I've poked around in at least once.
 
 + Erlang (minor experience)
-+ Dart (and LESS)
-+ Golang
++ Dart
 + Jekyll (this site)
++ LaTeX (resume and cover letters)
++ LESS
 + Prolog (minor experience)
 + Python (2.7/2.8)
