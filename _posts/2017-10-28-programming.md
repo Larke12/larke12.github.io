@@ -3,7 +3,7 @@ title: Programming
 updated: 2017-10-28 12:55
 ---
 
-Below is a list of programming languages to which I’ve been exposed. Most of my programming is done in Vim nowadays, using JetBrains IDE's when required. Given a quick refresh I can tackle just about any language, but my favourite would either be Go or Ruby. More detailed descriptions available upon request, self-taught unless otherwise noted.
+Below is a list of programming languages to which I’ve been exposed. Most of my programming is done in Vim nowadays, using JetBrains IDE's when required. Given a quick refresh I can tackle just about any language, but my favourite would either be Go or Ruby. More detailed descriptions available upon request, self-taught unless otherwise noted. A good chunk of my career has been working with the ecommerce frameowork Magento. This involves a lot of components from PHP to JS, and MVC structures to XML configurations.
 
 + ActionScript 2.0/3.0
 	+ Flash games on [Game Design](../game-design)
@@ -27,7 +27,7 @@ Below is a list of programming languages to which I’ve been exposed. Most of m
 + GTK3
 	+ [Ruby Media Player](https://github.com/Larke12/rbmp) (<a href="http://stackoverflow.com/cv/rhammett" target="_blank" >detailed information here</a>)
 + HTML/5
-	+ See [Web Design](../web-design)
+	+ See [Web Design](./web-design)
 	+ Many many sites at ParadoxLabs, often in PHTML
 + Java
 	+ See this [browser RPG](https://github.com/Larke12/Team_Assignment_RPG)

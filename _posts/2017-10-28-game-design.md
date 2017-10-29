@@ -7,7 +7,7 @@ updated: 2017-10-28 13:00
 
 ### To be continued?
 
-During college I learned the the truth and ferocity of the game design world. To be a developer in this career would require a daily life to which I'm not fond, and so I've shifted my puruits. I don't recall what article lead me to this conclusion, but if you happen to be intereted in game design I highly encourage looking for articles about the realities of game design. I'd love to dabble in game design again someday, for fun, so until then enjoy what I've done below.
+During college I learned the truth and ferocity of the game design world. To be a developer in this career would require a daily life to which I'm not fond, and so I've shifted my puruits. I don't recall what article lead me to this conclusion, but if you happen to be intereted in game design I highly encourage looking for articles about the realities of game design. I'd love to dabble in game design again someday, for fun, so until then enjoy what I've done below.
 
 ## College
 
