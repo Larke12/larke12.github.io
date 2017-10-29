@@ -1,7 +1,14 @@
 ---
 title: Game Design
-updated: 2016-05-26 13:00
+updated: 2017-10-28 19:00
 ---
+
+## Now
+
+### To be continued?
+<em>After college...</em>
+
+During college I learned the the truth and ferocity of the game design world. To be a developer in this career would require a daily life to which I'm not fond, and so I've shifted my puruits. I don't recall what article lead me to this conclusion, but if you happen to be intereted in game design I highly encourage looking for articles about the realities of game design. I'd love to dabble in game design again someday, for fun, so until then enjoy what I've done below.
 
 ## College
 
@@ -19,13 +26,13 @@ This game was created in my second semester of college, with some code given to 
 
 ## High School
 
-### [Old Game Design Home Page](http://larke12.netii.net/index.html)
+### Old Game Design Home Page
 
-Contains all works from my high school career. From the games below, to small labs we created and learned. Until the site is deleted I'll leave a link to it here.
+Contained all works from my high school career. From the games below, to small labs we created and learned. The site itself was also used to show off our web design and Flash works. The site has since been terminited, so this is just a small memento to what once was.
 
-### [Class of 2012 Game Design Page](http://www.kdgamedesign.info/class_of2012.html)
+### Class of 2012 Game Design Page
 
-So long as this site is also available, I will link to it here. It contains a selection of games from my Game Design class at Kennard-Dale High School.
+This site contained a selection of games from my Game Design class at Kennard-Dale High School. The domain no longer resolved, so this is yet another memento to past shenanigans.
 
 ### [Lost Woods Adventure](../../assets/advent_lost.swf)
 <em>Flash</em>
