@@ -8,8 +8,8 @@ Hello.
 
 My name is Ryan Hammett, and I am a gradute of York College of Pennylvania. I graduated with a B.S. in Computer Science and a minor in Creative Writing. This portion of my website houses my programs and design portfolio for assignments and side projects. Here you will find links to my GitHub projects as well as more detailed information on my knowledge. I am far more adept at Software Engineering than Computer Science, but both of these have been used throught my projects. My most notable project has been [Twiccian](https://github.com/Larke12/twiccian), where I learned semesters worth of work in a single year of college. Much of what I have learned has required self-teaching, and I am actively ready to find and learn more.
 
-For more about me and the rest of my works, please <a href="http://www.ryanhammett.com/" target="_blank">check out my website here</a>.
+For more about me and the rest of my works, please <a href="https://www.ryanhammett.com/" target="_blank">check out my website here</a>.
 
 Enjoy!
 
-![Kitten](http://i0.wp.com/www.ryanhammett.com/wp-content/uploads/2013/05/IMG_0747.jpg)
+![Kitten](https://i0.wp.com/www.ryanhammett.com/wp-content/uploads/2013/05/IMG_0747.jpg)
