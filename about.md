@@ -11,5 +11,3 @@ My name is Ryan Hammett, and I am a gradute of York College of Pennylvania. I gr
 For more about me and the rest of my works, please <a href="https://www.ryanhammett.com/" target="_blank">check out my website here</a>.
 
 Enjoy!
-
-![Kitten](https://i0.wp.com/www.ryanhammett.com/wp-content/uploads/2013/05/IMG_0747.jpg)
