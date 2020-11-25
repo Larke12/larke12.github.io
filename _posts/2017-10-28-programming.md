@@ -6,11 +6,11 @@ updated: 2017-10-28 12:55
 Below is a list of programming languages to which I’ve been exposed. Most of my programming is done in Vim nowadays, using JetBrains IDE's when required. Given a quick refresh I can tackle just about any language, but my favourite would either be Go or Ruby. More detailed descriptions available upon request, self-taught unless otherwise noted. A good chunk of my career has been working with the ecommerce frameowork Magento. This involves a lot of components from PHP to JS, and MVC structures to XML configurations.
 
 + ActionScript 2.0/3.0
-	+ Flash games on [Game Design](../game-design)
+	+ Flash games on [Game Design](./game-design)
 + C/C++
 	+ With OpenGL
 	+ [Twiccian front-end](https://github.com/Larke12/twiccian) (<a href="http://stackoverflow.com/cv/rhammett" target="_blank" >detailed information here</a>)
-	+ Terminal game on [Game Design](../game-design)
+	+ Terminal game on [Game Design](./game-design)
 	+ Various projects in college, from CS101 labs to Data Structure assignments
 + Clojure
 + CSS 
